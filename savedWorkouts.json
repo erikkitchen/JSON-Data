@@ -1,5 +1,6 @@
-{
-    "Upper Body Workout": 
+{   
+    "savedWorkouts": [
+        {"Upper Body Workout": 
         {
             "workouts": [
                 {
@@ -19,8 +20,9 @@
                     "Sets": 3
                 }
             ]
-        },
-    "Boulder Shoulder Workout":
+        }
+    },
+    {"Boulder Shoulder Workout":
         {
             "workouts": [
                 {
@@ -37,4 +39,8 @@
                 }
             ]
         }
+    }
+    ]
 }
+
+
