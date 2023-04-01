@@ -1,0 +1,40 @@
+{
+    "Upper Body Workout": 
+        {
+            "workouts": [
+                {
+                    "name": "Dumbbell Bench Press",
+                    "Sets": 5
+                },
+                {
+                    "name": "Pushups",
+                    "Sets": 3
+                },
+                {
+                    "name": "Pushups",
+                    "Sets": 3
+                },
+                {
+                    "name": "Pullups",
+                    "Sets": 3
+                }
+            ]
+        },
+    "Boulder Shoulder Workout":
+        {
+            "workouts": [
+                {
+                    "name": "Biceps curl to shoulder press",
+                    "Sets": 5
+                },
+                {
+                    "name": "Incline dumbbell bench press",
+                    "Sets": 3
+                },
+                {
+                    "name": "Pushups",
+                    "Sets": 3
+                }
+            ]
+        }
+}
